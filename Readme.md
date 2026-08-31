@@ -1,7 +1,7 @@
 # Machine Learning Driven Quantitative Equity Trading Strategy
 
 A machine learning based approach to building a quantitative equity trading strategy.
-Performed feature engineering on a 144-stock NSE universe, deriving 13 predictive features 
+Performed feature engineering on a 144-stock NSE universe, deriving 13 predictive features.
 
 ## Getting Started
 
